@@ -1,0 +1,103 @@
+
+
+
+h1 {
+	color: #2B2D42;
+}
+
+
+p {
+	color: #2b2d42;
+}
+
+
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+nav {
+	border-bottom: 2px solid #8D99AE;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: white;
+}
+
+a:visited {
+	color: white;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+
+#nav {
+	background-color: #2B2D42;
+	border-radius: 10px;
+	text-align: center;
+	font-size: larger;
+	
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	
+}
+
+#placesBeen {
+	display: flex;
+	justify-content: space-between;
+}
+
+#bellFrisco {
+	display: flex;
+	justify-content:right
+
+}
+
+#pictures {
+	border-radius: 10%;
+	
+}
+
+.button {
+	background-color: #d8db18;
+	height:200px;
+    width:200px;
+	border-radius: 10px;
+	transition-duration: 0.4s;
+}
+
+.button:hover {
+	background-color: #fff3b0; 
+	color: white;
+}
+
+
+
+#links {
+	
+	
+}
